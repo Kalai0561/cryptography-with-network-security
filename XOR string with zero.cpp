@@ -13,4 +13,4 @@ str1[i]=str[i]^0;
 printf("%c",str1[i]);
 }
 printf("\n");
-}
+}W
